@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>TohHis</title>
+    </head>
+<body>
+
+        <main>
+            <h1 style="text-align:center;font-size:50px;">ToHis</h1>
+            <h2 style="text-align:center;font-size:40px;">Продажа Биткоинов</h2>
+            <img src="https://www.dw.com/image/19446836_401.jpg" width="800px">
+            <h2 id="games">Мы продаём разновидности Биткоинов</h2>
+            <p>Хотите выгодно купить биткоины? 
+                <br>У вас уже есть биткоины и вы хотите продать выгодно?
+                <br>У нас можно выгодно продать. 
+                <br>Вам не придётся ждать пока вырастут цены.
+                <br>Сдесь более 10 тысячь людей заработали на нашем сайте.</p>
+            <p>
+                <img src="https://opartnerke.ru/wp-content/uploads/2017/11/vidy_kriptovalyuty_kurs_na_segodnya.jpg" width="300px">
+            </p>
+            <h2>Процесс продажи</h2>
+            <p>Вы допустим захотели быстро бродать биткоины,но цена на него маленькая,а у нас она всегда высокая и вы выкладываете заказ на продажу биткоинов. 
+                <br>
+                <br>
+            </p>
+            <h2 id="price">Наше предложение</h2>
+            <p>60 000 тыс.стоит биткоин.</p>
+            <h2>Популярность биткоинов/h2>
+            <img src="https://bloomchain-cdn.s3.amazonaws.com/uploads/image/b4287c2a-e375-11ea-a8a9-0242ac130003/original.jpg?v=63765209726" width="700px">
+            </h2>
+        </main>
+        <footer style="background-color:lightblue; color:black">
+            <a href="#start" style="color:black;font-size:20px">В начало страницы</a>
+            <p style="font-size:15px"> Адрес: город Красочный, ул.Пиксельная, 15.</p>
+            <p>Тел.:586-437</p>
+        </footer>
+</body>
+</html>
